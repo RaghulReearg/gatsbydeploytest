@@ -1,0 +1,13 @@
+.user{
+display: flex;
+flex-direction: row;
+margin-bottom: 10px;
+align-items: center;
+}
+.imgstyles{
+    width: 100px;
+    height: 100px;
+}
+.details{
+margin-left: 20px;
+}
